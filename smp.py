@@ -61,7 +61,7 @@ def menu():
     print "! user    : " + pengguna
     print "! Id      : " + ids
     print "! Ip      : " + ip
-    print "! country : " + daerah
+
     print 47 * '\x1b[91m\xe2\x94\x80\x1b[00m'
     print "1) crack dari daftar teman"
     print "2) crack dari daftar teman orang lain"
